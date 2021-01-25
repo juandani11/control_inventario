@@ -207,7 +207,7 @@ MODAL AGREGAR USUARIO
                             <label for="exampleInputFile">Subir Foto</label>
                             <div class="input-group">
                                 <div class="custom-file">
-                                    <input type="file" class="custom-file-input nuevaFoto" id="nuevaFoto" name="nuevaFoto">
+                                    <input type="file" class="custom-file-input" id="nuevaFoto" name="nuevaFoto">
                                     <label class="custom-file-label" for="nuevaFoto">Seleccionar Foto</label>
                                 </div>
                                 <div class="input-group-append">
@@ -222,13 +222,10 @@ MODAL AGREGAR USUARIO
                     <button type="button" class="btn btn-outline-light" data-dismiss="modal">Cerrar</button>
                     <button type="submit" class="btn btn-outline-light">Guardar Usuario</button>
                 </div>
+
+
             </div>
-
-            <?php
-            $crearUsuario = new ControladorUsuarios();
-            $crearUsuario -> ctrCrearUsuario();
-            ?>
-
+            <!-- /.modal-content -->
         </form>
     </div>
     <!-- /.modal-dialog -->

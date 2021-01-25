@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a879302-b9a9-481b-80b4-19cdca02fbf7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/dist/css/adminlte.css" afterPath="$PROJECT_DIR$/vistas/dist/css/adminlte.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/cabezote.php" afterPath="$PROJECT_DIR$/vistas/modulos/cabezote.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controladores/plantilla.controlador.php" afterPath="$PROJECT_DIR$/controladores/plantilla.controlador.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controladores/usuarios.controlador.php" afterPath="$PROJECT_DIR$/controladores/usuarios.controlador.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelos/conexion.php" afterPath="$PROJECT_DIR$/modelos/conexion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelos/usuarios.modelo.php" afterPath="$PROJECT_DIR$/modelos/usuarios.modelo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/js/plantilla.js" afterPath="$PROJECT_DIR$/vistas/js/plantilla.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/menu.php" afterPath="$PROJECT_DIR$/vistas/modulos/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/usuarios.php" afterPath="$PROJECT_DIR$/vistas/modulos/usuarios.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/plantilla.php" afterPath="$PROJECT_DIR$/vistas/plantilla.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,64 +22,57 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vistas/modulos/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="46" column="14" lean-forward="false" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adminlte.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/dist/css/adminlte.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="21810" column="12" lean-forward="true" selection-start-line="21810" selection-start-column="12" selection-end-line="21810" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cabezote.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/modulos/cabezote.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="plantilla.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="80" column="25" lean-forward="false" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="salir.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/modulos/salir.php">
+      <file leaf-file-name="usuarios.controlador.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controladores/usuarios.controlador.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="69">
+              <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
               <folding>
-                <marker date="1611532453337" expanded="true" signature="40:42" ph="..." />
-                <marker date="1611532453337" expanded="true" signature="40:82" ph="..." />
+                <marker date="1611587681795" expanded="true" signature="2965:3282" ph="..." />
+                <marker date="1611587681795" expanded="true" signature="2983:3016" ph="{...}" />
+                <marker date="1611587681795" expanded="true" signature="2983:3150" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+                <marker date="1611587681795" expanded="true" signature="3173:3260" ph="{...}" />
+                <marker date="1611587681795" expanded="true" signature="3198:3252" ph="{...}" />
+                <marker date="1611587681795" expanded="true" signature="3357:3690" ph="..." />
+                <marker date="1611587681795" expanded="true" signature="3375:3406" ph="{...}" />
+                <marker date="1611587681795" expanded="true" signature="3375:3414" ph="{&quot;icon&quot;: type...}" />
+                <marker date="1611587681795" expanded="true" signature="3375:3449" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+                <marker date="1611587681795" expanded="true" signature="3375:3559" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+                <marker date="1611587681795" expanded="true" signature="3582:3669" ph="{...}" />
+                <marker date="1611587681795" expanded="true" signature="3607:3661" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/modulos/menu.php">
+      <file leaf-file-name="usuarios.modelo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelos/usuarios.modelo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
+            <state relative-caret-position="55">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <marker date="1611592344541" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1611592344541" expanded="true" signature="791:907" ph="INSERT INTO usuarios... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usuarios.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vistas/modulos/usuarios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="209" column="89" lean-forward="false" selection-start-line="209" selection-start-column="89" selection-end-line="209" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -104,22 +101,27 @@
         <option value="$PROJECT_DIR$/vistas/modulos/crear-movimiento.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/reportes.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/clientes.php" />
-        <option value="$PROJECT_DIR$/vistas/modulos/usuarios.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/controladores/categorias.controlador.php" />
         <option value="$PROJECT_DIR$/controladores/clientes.controlador.php" />
         <option value="$PROJECT_DIR$/controladores/movimientos.controlador.php" />
         <option value="$PROJECT_DIR$/controladores/productos.controlador.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/404.php" />
-        <option value="$PROJECT_DIR$/modelos/conexion.php" />
-        <option value="$PROJECT_DIR$/modelos/usuarios.modelo.php" />
-        <option value="$PROJECT_DIR$/controladores/usuarios.controlador.php" />
-        <option value="$PROJECT_DIR$/vistas/modulos/menu.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/cabezote.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/salir.php" />
-        <option value="$PROJECT_DIR$/vistas/plantilla.php" />
         <option value="$PROJECT_DIR$/vistas/dist/css/adminlte.css" />
         <option value="$PROJECT_DIR$/vistas/modulos/login.php" />
+        <option value="$PROJECT_DIR$/controladores/plantilla.controlador.php" />
+        <option value="$PROJECT_DIR$/modelos/conexion.php" />
+        <option value="$PROJECT_DIR$/vistas/js/usuarios.js" />
+        <option value="$PROJECT_DIR$/vistas/modulos/menu.php" />
+        <option value="$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/vistas/modulos/cabezote.php" />
+        <option value="$PROJECT_DIR$/vistas/js/plantilla.js" />
+        <option value="$PROJECT_DIR$/vistas/plantilla.php" />
+        <option value="$PROJECT_DIR$/controladores/usuarios.controlador.php" />
+        <option value="$PROJECT_DIR$/vistas/modulos/usuarios.html.php" />
+        <option value="$PROJECT_DIR$/modelos/usuarios.modelo.php" />
+        <option value="$PROJECT_DIR$/vistas/modulos/usuarios.php" />
       </list>
     </option>
   </component>
@@ -152,6 +154,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,55 +213,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="control_inventario" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="control_inventario" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vistas" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminlte.css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="control_inventario" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="control_inventario" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vistas" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -292,7 +247,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,9 +255,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\control_inventario\vistas\modulos" />
+      <recent name="C:\laragon\www\control_inventario\vistas\js" />
+      <recent name="C:\laragon\www\control_inventario\vistas\plugins" />
       <recent name="C:\laragon\www\control_inventario\modelos" />
       <recent name="C:\laragon\www\control_inventario\controladores" />
-      <recent name="C:\laragon\www\control_inventario\vistas\modulos" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,25 +354,26 @@
       <option name="presentableId" value="Default" />
       <updated>1611508258396</updated>
       <workItem from="1611508260266" duration="15880000" />
-      <workItem from="1611529617429" duration="3174000" />
+      <workItem from="1611529617429" duration="22900000" />
+      <workItem from="1611587343521" duration="4372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19054000" />
+    <option name="totallyTimeSpent" value="43152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -439,6 +396,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controladores/usuarios.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="47" lean-forward="true" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+          <folding>
+            <marker date="1611587681795" expanded="true" signature="2965:3282" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="2983:3016" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="2983:3150" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3173:3260" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3198:3252" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3357:3690" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="3375:3406" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3414" ph="{&quot;icon&quot;: type...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3449" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3559" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3582:3669" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3607:3661" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="228" column="47" lean-forward="true" selection-start-line="228" selection-start-column="47" selection-end-line="228" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/usuarios.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1611592344541" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1611592344541" expanded="true" signature="791:907" ph="INSERT INTO usuarios... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modulos/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -452,7 +457,18 @@
         <state relative-caret-position="221">
           <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
           <folding>
-            <marker date="1611530013170" expanded="true" signature="809:860" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="2965:3282" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="2983:3016" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="2983:3150" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3173:3260" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3198:3252" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3357:3690" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="3375:3406" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3414" ph="{&quot;icon&quot;: type...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3449" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3559" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3582:3669" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3607:3661" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -462,7 +478,8 @@
         <state relative-caret-position="204">
           <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
-            <marker date="1611529524783" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1611592344541" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1611592344541" expanded="true" signature="791:907" ph="INSERT INTO usuarios... " />
           </folding>
         </state>
       </provider>
@@ -479,7 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -490,14 +506,6 @@
           <folding>
             <element signature="e#137#143#0#HTML" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,14 +550,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modulos/clientes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="79" lean-forward="false" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/usuarios.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="79" lean-forward="false" selection-start-line="11" selection-start-column="79" selection-end-line="11" selection-end-column="79" />
@@ -659,51 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controladores/usuarios.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding>
-            <marker date="1611530013170" expanded="true" signature="809:860" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modelos/usuarios.modelo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <marker date="1611529524783" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modelos/conexion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="94" column="29" lean-forward="true" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,14 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="80" column="25" lean-forward="false" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/dist/css/adminlte.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
@@ -734,18 +681,170 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="46" column="14" lean-forward="false" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/vistas/modulos/usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="120" column="12" lean-forward="true" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/vistas/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="69" column="71" lean-forward="true" selection-start-line="69" selection-start-column="71" selection-end-line="71" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/modelos/usuarios.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/controladores/usuarios.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modulos/cabezote.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="595">
           <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/login.php">
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/inicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="46" column="14" lean-forward="false" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        <state relative-caret-position="680">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="76" lean-forward="false" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/vistas/modulos/cabezote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/03 Gestor de usuarios/019 02.Gestor-Usuarios/pos/vistas/modulos/usuarios.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="145" column="67" lean-forward="false" selection-start-line="145" selection-start-column="38" selection-end-line="145" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/js/usuarios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/js/plantilla.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controladores/plantilla.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/usuarios.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="217" column="30" lean-forward="true" selection-start-line="217" selection-start-column="30" selection-end-line="217" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controladores/usuarios.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+          <folding>
+            <marker date="1611587681795" expanded="true" signature="2965:3282" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="2983:3016" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="2983:3150" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3173:3260" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3198:3252" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3357:3690" ph="..." />
+            <marker date="1611587681795" expanded="true" signature="3375:3406" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3414" ph="{&quot;icon&quot;: type...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3449" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3375:3559" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
+            <marker date="1611587681795" expanded="true" signature="3582:3669" ph="{...}" />
+            <marker date="1611587681795" expanded="true" signature="3607:3661" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/usuarios.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <marker date="1611592344541" expanded="true" signature="304:340" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1611592344541" expanded="true" signature="791:907" ph="INSERT INTO usuarios... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="209" column="89" lean-forward="false" selection-start-line="209" selection-start-column="89" selection-end-line="209" selection-end-column="89" />
           <folding />
         </state>
       </provider>
