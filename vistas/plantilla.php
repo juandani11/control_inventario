@@ -1,8 +1,16 @@
+<?php
+
+session_start();
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="vistas/img/plantilla/icono-negro.php">
 
   <title>Control Inventario</title>
 
@@ -26,13 +34,58 @@
   <!-- AdminLTE for demo purposes -->
   <script src="vistas/dist/js/demo.js"></script>
 </head>
-<body class="hold-transition sidebar-mini">
+<body class="hold-transition sidebar-mini ">
 <!-- Site wrapper -->
-<div class="wrapper">
-</div>
+
+
+  <?php
+  if(isset($_SESSION["iniciarSesion"]) && $_SESSION["iniciarSesion"] == "ok"){
+
+      echo '<div class="wrapper">';
+
+      include "modulos/cabezote.php";
+
+        if(isset($_GET["ruta"])){
+
+          if($_GET["ruta"] == "inicio" ||
+              $_GET["ruta"] == "usuarios" ||
+              $_GET["ruta"] == "categorias" ||
+              $_GET["ruta"] == "productos" ||
+              $_GET["ruta"] == "clientes" ||
+              $_GET["ruta"] == "movimientos" ||
+              $_GET["ruta"] == "crear-movimiento" ||
+              $_GET["ruta"] == "reportes" ||
+              $_GET["ruta"] == "salir"){
+
+              include "modulos/".$_GET["ruta"].".php";
+
+          }else{
+
+              include "modulos/404.php";
+
+          }
+
+      }else{
+
+          include "modulos/inicio.php";
+
+      }
+
+      include "modulos/menu.php";
+
+      include "modulos/footer.php";
+
+      echo '</div>';
+  }else{
+
+      include "modulos/login.php";
+
+  }
+  ?>
+
 <!-- ./wrapper -->
 
-<script src="js/plantilla.js"></script>
+<script src="vistas/js/plantilla.js"></script>
 
 </body>
 </html>
