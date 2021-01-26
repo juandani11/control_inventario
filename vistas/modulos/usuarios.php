@@ -54,7 +54,7 @@
                     foreach ($usuarios as $key => $value){
 
                         echo '<tr>
-                                <td>1</td>
+                                <td>'.($key+1).'</td>
                                 <td>'.$value["nombre"].'</td>
                                 <td>'.$value["usuario"].'</td>';
 
@@ -148,7 +148,7 @@ MODAL AGREGAR USUARIO
                                 <div class="input-group-prepend">
                                     <span class="input-group-text"><i class="fas fa-key"></i></span>
                                 </div>
-                                <input type="text" class="form-control" name="nuevoUsuario" placeholder="Ingresar usuario" required>
+                                <input type="text" class="form-control" name="nuevoUsuario" id="nuevoUsuario" placeholder="Ingresar usuario" required>
                             </div>
 
                         </div>
@@ -230,7 +230,7 @@ MODAL EDITAR USUARIO
 <div class="modal fade" id="modalEditarUsuario">
     <div class="modal-dialog">
         <form role="form" method="post" enctype="multipart/form-data">
-            <div class="modal-content bg-secundary">
+            <div class="modal-content bg-secondary">
                 <div class="modal-header">
                     <h4 class="modal-title">Editar Usuario</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -338,3 +338,11 @@ MODAL EDITAR USUARIO
     </div>
     <!-- /.modal-dialog -->
 </div>
+
+<?php
+
+$borrarUsuario = new ControladorUsuarios();
+$borrarUsuario -> ctrBorrarUsuario();
+
+?>
+

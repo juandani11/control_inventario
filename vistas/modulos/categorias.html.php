@@ -39,37 +39,56 @@
                     </thead>
                     <tbody>
 
-                    <?php
+                    <tr>
+                        <td>1</td>
 
-                    $item = null;
-                    $valor = null;
+                        <td>EQUIPOS</td>
+                        <td>
 
-                    $categorias = ControladorCategorias::ctrMostrarCategorias($item, $valor);
+                            <div class="btn-group">
 
-                    foreach ($categorias as $key => $value) {
+                                <button class="btn btn-warning"><i class="fas fa-edit"></i></button>
 
-                        echo ' <tr>
+                                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
 
-                                <td>'.($key+1).'</td>
+                            </div>
 
-                                <td class="text-uppercase">'.$value["categoria"].'</td>
+                        </td>
 
-                                <td>
+                    </tr>
 
-                                    <div class="btn-group">
-                          
-                                        <button class="btn btn-warning btnEditarCategoria" idCategoria="'.$value["id"].'" data-toggle="modal" data-target="#modalEditarCategoria"><i class="fas fa-edit"></i></button>
-    
-                                        <button class="btn btn-danger btnEliminarCategoria" idCategoria="'.$value["id"].'"><i class="fas fa-trash"></i></button>
+                    <tr>
+                        <td>1</td>
+                        <td>EQUIPOS</td>
+                        <td>
 
-                                    </div>  
+                            <div class="btn-group">
 
-                                </td>
+                                <button class="btn btn-warning"><i class="fas fa-edit"></i></button>
 
-                             </tr>';
-                    }
+                                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
 
-                    ?>
+                            </div>
+
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>1</td>
+                        <td>EQUIPOS</td>
+                        <td>
+
+                            <div class="btn-group">
+
+                                <button class="btn btn-warning"><i class="fas fa-edit"></i></button>
+
+                                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
+
+                            </div>
+
+                        </td>
+
+                    </tr>
 
                     </tbody>
                 </table>
@@ -119,12 +138,6 @@ MODAL AGREGAR CATEGORIA
                     <button type="submit" class="btn btn-outline-light">Guardar Categoria o Sub Grupo</button>
                 </div>
 
-                <?php
-
-                $crearCategoria = new ControladorCategorias();
-                $crearCategoria -> ctrCrearCategoria();
-
-                ?>
 
             </div>
             <!-- /.modal-content -->
@@ -132,58 +145,3 @@ MODAL AGREGAR CATEGORIA
     </div>
     <!-- /.modal-dialog -->
 </div>
-
-<!--=====================================
-MODAL EDITAR USUARIO
-======================================-->
-
-<div class="modal fade" id="modalEditarCategoria">
-    <div class="modal-dialog">
-        <form role="form" method="post">
-            <div class="modal-content bg-secondary">
-                <div class="modal-header">
-                    <h4 class="modal-title">Editar Categoria o Sub grupo</h4>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="card-body">
-
-                        <!-- ENTRADA PARA EL NOMBRE -->
-
-                        <div class="form-group">
-
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text"><i class="fas fa-th-list"></i></span>
-                                </div>
-                                <input type="text" class="form-control" id="editarCategoria" name="editarCategoria" required>
-                                <input type="hidden" name="idCategoria" id="idCategoria" required>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
-                <div class="modal-footer justify-content-between">
-                    <button type="button" class="btn btn-outline-light" data-dismiss="modal">Cerrar</button>
-                    <button type="submit" class="btn btn-outline-light">Modificar Categoria o Sub Grupo</button>
-                </div>
-                <?php
-
-                $editarCategoria = new ControladorCategorias();
-                $editarCategoria -> ctrEditarCategoria();
-
-                ?>
-            </div>
-        </form>
-    </div>
-    <!-- /.modal-dialog -->
-</div>
-<?php
-
-$borrarCategoria = new ControladorCategorias();
-$borrarCategoria -> ctrBorrarCategoria();
-
-?>
