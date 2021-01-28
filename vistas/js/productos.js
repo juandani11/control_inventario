@@ -202,7 +202,7 @@ $(function () {
      EDITAR PRODUCTO
      =============================================*/
 
-    $(".tablaProductos body").on("click", "button.btnEditarProducto", function(){
+    $(document).on("click", ".btnEditarProducto", function(){
 
         var idProducto = $(this).attr("idProducto");
 
@@ -269,12 +269,31 @@ $(function () {
      ELIMINAR PRODUCTO
      =============================================*/
 
-    $(".tablaProductos tbody").on("click", "button.btnEliminarProducto", function(){
+    $(document).on("click", ".btnEliminarProducto", function(){
 
         var idProducto = $(this).attr("idProducto");
-        console.log("idProducto", idProducto);
+        var codigo = $(this).attr("codigo");
+        var imagen = $(this).attr("imagen");
+
+        Swal.fire({
+
+            title: '¿Está seguro de borrar el producto?',
+            text: "¡Si no lo está puede cancelar la accíón!",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            cancelButtonText: 'Cancelar',
+            confirmButtonText: 'Si, borrar producto!'
+        }).then(function(result){
+            if (result.value) {
+
+                window.location = "index.php?ruta=productos&idProducto="+idProducto+"&imagen="+imagen+"&codigo="+codigo;
+
+            }
 
 
+        })
     })
 
 

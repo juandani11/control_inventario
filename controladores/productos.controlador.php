@@ -280,11 +280,11 @@ class ControladorProductos{
 
                 echo'<script>
 
-					swal({
-						  type: "error",
-						  title: "¡El producto no puede ir con los campos vacíos o llevar caracteres especiales!",
+					Swal.fire({
+						  icon: "error",
+						  title: "¡El producto no puede ir con los campos vacíos!",
 						  showConfirmButton: true,
-						  confirmButtonText: "Cerrar"
+						  confirmButtonText: "OK"
 						  }).then(function(result){
 							if (result.value) {
 
@@ -322,8 +322,8 @@ class ControladorProductos{
 
                 echo'<script>
 
-				swal({
-					  type: "success",
+				Swal.fire({
+					  icon: "success",
 					  title: "El producto ha sido borrado correctamente",
 					  showConfirmButton: true,
 					  confirmButtonText: "Cerrar"

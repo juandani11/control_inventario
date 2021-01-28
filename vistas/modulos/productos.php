@@ -76,9 +76,9 @@
 
                                     <div class="btn-group">
                         
-                                        <button class="btn btn-warning"><i class="fas fa-edit"></i></button>
+                                        <button class="btn btn-warning btnEditarProducto" idProducto="'.$value["id"].'" data-toggle="modal" data-target="#modalEditarProducto"><i class="fas fa-edit"></i></button>
 
-                                        <button class="btn btn-danger"><i class="fas fa-trash"></i></button>
+                                        <button class="btn btn-danger btnEliminarProducto" idProducto="'.$value["id"].'" imagen="'.$value["imagen"].'" codigo="'.$value["codigo"].'"><i class="fas fa-trash"></i></button>
 
                                     </div>  
 
@@ -316,11 +316,23 @@ MODAL EDITAR USUARIO
 
                                 <span class="input-group-text"><i class="fas fa-list"></i></span>
 
-                                <select class="form-control input-lg" name="editarCategoria" id="editarCategoria" readonly required>
+                                <input class="form-control input-lg" name="editarCategoria" id="editarCategoria"
 
-                                    <option id="editarCategoria"></option>
+                                    <?php
 
-                                </select>
+                                    $item = "id";
+                                    $valor = "id_categoria";
+
+                                    $categorias = ControladorCategorias::ctrMostrarCategorias($item, $valor);
+
+
+
+                                        echo ' value="'."id".'" placeholder="'.$categorias["categoria"].'"';
+
+
+                                    ?>
+                                        readonly required>
+
 
                             </div>
 
@@ -444,3 +456,9 @@ MODAL EDITAR USUARIO
     </div>
     <!-- /.modal-dialog -->
 </div>
+<?php
+
+$eliminarProducto = new ControladorProductos();
+$eliminarProducto -> ctrEliminarProducto();
+
+?>
