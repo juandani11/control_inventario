@@ -180,8 +180,7 @@ class ControladorUsuarios{
                         
 						icon: "success",
 						title: "¡El usuario ha sido guardado correctamente!",
-						showConfirmButton: false,
-						timer: 1500
+						confirmButtonText: "OK"
 
 					}).then(function(result){
 
