@@ -112,7 +112,7 @@
 </div>
 
 <!--=====================================
-MODAL AGREGAR CATEGORIA
+MODAL AGREGAR CLIENTE
 ======================================-->
 
 <div class="modal fade" id="modalAgregarCliente">

@@ -94,13 +94,13 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="movimientos" class="nav-link">
+                            <a href="ventas" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Administrar movimientos</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="crear-movimiento" class="nav-link">
+                            <a href="crear-venta" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Nuevo movimiento</p>
                             </a>
