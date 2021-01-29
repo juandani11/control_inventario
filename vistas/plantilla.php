@@ -57,6 +57,9 @@ session_start();
     <script src="vistas/plugins/sweetalert2/sweetalert2.min.js"></script>
     <!-- bs-custom-file-input -->
     <script src="vistas/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+    <!-- InputMask -->
+    <script src="vistas/plugins/moment/moment.min.js"></script>
+    <script src="vistas/plugins/inputmask/jquery.inputmask.min.js"></script>
 </head>
 <body class="hold-transition sidebar-mini ">
 <!-- Site wrapper -->
@@ -113,6 +116,7 @@ session_start();
 <script src="vistas/js/usuarios.js"></script>
 <script src="vistas/js/categorias.js"></script>
 <script src="vistas/js/productos.js"></script>
+<script src="vistas/js/clientes.js"></script>
 
 </body>
 </html>

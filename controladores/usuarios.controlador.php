@@ -381,8 +381,7 @@ class ControladorUsuarios{
 					Swal.fire({
 						  icon: "success",
 						  title: "El usuario ha sido editado correctamente",
-						  showConfirmButton: false,
-						  timer: 1500
+						  confirmButtonText: "OK"
 						  }).then(function(result){
 									if (result.value) {
 
