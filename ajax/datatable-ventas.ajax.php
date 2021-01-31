@@ -4,8 +4,6 @@ require_once "../controladores/productos.controlador.php";
 require_once "../modelos/productos.modelo.php";
 
 
-
-
 class TablaProductosVentas{
 
     /*=============================================
@@ -19,6 +17,13 @@ class TablaProductosVentas{
 
         $productos = ControladorProductos::ctrMostrarProductos($item, $valor);
 
+        if(count($productos) == 0){
+
+            echo '{"data": []}';
+
+            return;
+        }
+
         $datosJson = '{
 		  "data": [';
 
@@ -29,7 +34,6 @@ class TablaProductosVentas{
             =============================================*/
 
             $imagen = "<img src='".$productos[$i]["imagen"]."' width='40px'>";
-
 
             /*=============================================
             STOCK

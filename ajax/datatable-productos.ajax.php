@@ -20,6 +20,13 @@ class TablaProductos{
 
         $productos = ControladorProductos::ctrMostrarProductos($item, $valor);
 
+        if(count($productos) == 0){
+
+            echo '{"data": []}';
+
+            return;
+        }
+
         $datosJson = '{
 		  "data": [';
 
@@ -62,12 +69,7 @@ class TablaProductos{
             TRAEMOS LAS ACCIONES
             =============================================*/
 
-            $botones =  "<div class='btn-group'>
-                            <button class='btn btn-warning btnEditarProducto' idProducto='".$productos[$i]["id"]."' data-toggle='modal' data-target='#modalEditarProducto'>
-                                    <i class='fa fa-pencil'></i></button>
-                            <button class='btn btn-danger btnEliminarProducto' idProducto='".$productos[$i]["id"]."' codigo='".$productos[$i]["codigo"]."' imagen='".$productos[$i]["imagen"]."'>
-                            <i class='fa fa-times'></i></button>
-                         </div>";
+            $botones =  "<div class='btn-group'><button class='btn btn-warning btnEditarProducto' idProducto='".$productos[$i]["id"]."' data-toggle='modal' data-target='#modalEditarProducto'><i class='fas fa-edit'></i></button><button class='btn btn-danger btnEliminarProducto' idProducto='".$productos[$i]["id"]."' codigo='".$productos[$i]["codigo"]."' imagen='".$productos[$i]["imagen"]."'><i class='fas fa-trash'></i></button></div>";
 
             $datosJson .='[
 			      "'.($i+1).'",

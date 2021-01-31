@@ -29,7 +29,7 @@
                 </button>
             </div>
             <div class="card-body">
-                <table id="tablas" class="table table-bordered table-striped">
+                <table id="tablas" class="table table-bordered table-striped tablas">
                     <thead>
                     <tr>
                         <th style="width:10px">#</th>

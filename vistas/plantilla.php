@@ -60,6 +60,8 @@ session_start();
     <!-- InputMask -->
     <script src="vistas/plugins/moment/moment.min.js"></script>
     <script src="vistas/plugins/inputmask/jquery.inputmask.min.js"></script>
+    <!-- jqueryNumber -->
+    <script src="vistas/plugins/jqueryNumber/jquerynumber.min.js"></script>
 </head>
 <body class="hold-transition sidebar-mini ">
 <!-- Site wrapper -->
@@ -83,6 +85,7 @@ session_start();
               $_GET["ruta"] == "crear-movimiento" ||
               $_GET["ruta"] == "ventas" ||
               $_GET["ruta"] == "crear-venta" ||
+              $_GET["ruta"] == "editar-venta" ||
               $_GET["ruta"] == "reportes" ||
               $_GET["ruta"] == "salir"){
 

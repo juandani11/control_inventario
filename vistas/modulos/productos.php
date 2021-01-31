@@ -29,9 +29,13 @@
                 </button>
             </div>
             <div class="card-body">
-                <table id="tablas" class="table table-bordered table-striped tablaProductos">
+
+                <table class="table table-bordered table-striped tablaProductos">
+
                     <thead>
+
                     <tr>
+
                         <th style="width:10px">#</th>
                         <th>Imagen</th>
                         <th>Codigo</th>
@@ -42,67 +46,21 @@
                         <th>Precio de Venta</th>
                         <th>Agregado</th>
                         <th>Acciones</th>
+
                     </tr>
+
                     </thead>
 
-
-                    <?php
-
-                    $item = null;
-
-                    $valor = null;
-
-                    $productos = ControladorProductos::ctrMostrarProductos($item, $valor);
-
-                    foreach ($productos as $key => $value) {
-
-                        echo '<tr>
-                                <td>'.($key+1).'</td>
-                                <td><img src="vistas/img/productos/default/anonymous.png" class="img-thumbnail" width="40px"></td>
-                                <td>'.$value["codigo"].'</td>
-                                <td>'.$value["descripcion"].'</td>';
-
-                                $item = "id";
-                                $valor = $value["id_categoria"];
-
-                                $categoria = ControladorCategorias::ctrMostrarCategorias($item, $valor);
-
-                                echo '<td>'.$categoria["categoria"].'</td>
-                                <td>'.$value["stock"].'</td>
-                                <td>'.$value["precio_compra"].'</td>
-                                <td>'.$value["precio_venta"].'</td>
-                                <td>'.$value["fecha"].'</td>
-                                <td>
-
-                                    <div class="btn-group">
-                        
-                                        <button class="btn btn-warning btnEditarProducto" idProducto="'.$value["id"].'" data-toggle="modal" data-target="#modalEditarProducto"><i class="fas fa-edit"></i></button>
-
-                                        <button class="btn btn-danger btnEliminarProducto" idProducto="'.$value["id"].'" imagen="'.$value["imagen"].'" codigo="'.$value["codigo"].'"><i class="fas fa-trash"></i></button>
-
-                                    </div>  
-
-                                </td>
-
-                            </tr>';
-
-                    }
-
-                    ?>
-
-
                 </table>
-            </div>
-            <!-- /.card-body -->
 
-            <!-- /.card -->
+            </div>
 
     </section>
 
 </div>
 
 <!--=====================================
-MODAL AGREGAR USUARIO
+MODAL AGREGAR PRODUCTO
 ======================================-->
 
 <div class="modal fade" id="modalAgregarProducto">
@@ -118,7 +76,7 @@ MODAL AGREGAR USUARIO
                 <div class="modal-body">
                     <div class="card-body">
 
-                        <!-- ENTRADA PARA LA DESCRIPCION -->
+                        <!-- ENTRADA DESCRIPCION -->
 
                         <div class="form-group">
 
@@ -131,7 +89,7 @@ MODAL AGREGAR USUARIO
 
                         </div>
 
-                        <!-- ENTRADA PARA SELECCIONAR CATEGORIA -->
+                        <!-- ENTRADA CATEGORIA -->
 
                         <div class="form-group">
 
@@ -139,7 +97,8 @@ MODAL AGREGAR USUARIO
 
                                 <span class="input-group-text"><i class="fas fa-list"></i></span>
 
-                                <select class="form-control input-lg" name="nuevaCategoria" id="nuevaCategoria">
+                                <select class="form-control input-lg" name="nuevaCategoria" id="nuevaCategoria" required>
+
                                     <option value="">Seleccionar Categoria</option>
 
                                     <?php
@@ -162,7 +121,7 @@ MODAL AGREGAR USUARIO
 
                         </div>
 
-                        <!-- ENTRADA PARA EL CODIGO -->
+                        <!-- ENTRADA CODIGO -->
 
                         <div class="form-group">
 
@@ -176,7 +135,7 @@ MODAL AGREGAR USUARIO
 
                         </div>
 
-                        <!-- ENTRADA PARA LA STOCK -->
+                        <!-- ENTRADA STOCK -->
 
                         <div class="form-group">
 
@@ -233,7 +192,7 @@ MODAL AGREGAR USUARIO
 
                                 <div class="col-4" >
                                     <div class="input-group mb-3">
-                                        <input type="number" class="form-control nuevoPorcentaje" min="0" value="40" required>
+                                        <input type="number" class="form-control nuevoPorcentaje" min="0" value="0" required>
                                         <div class="input-group-append">
                                             <span class="input-group-text"><i class="fas fa-percentage"></i></span>
                                         </div>
@@ -279,7 +238,7 @@ MODAL AGREGAR USUARIO
 </div>
 
 <!--=====================================
-MODAL EDITAR USUARIO
+MODAL EDITAR PRODUCTO
 ======================================-->
 
 <div class="modal fade" id="modalEditarProducto">
@@ -316,23 +275,11 @@ MODAL EDITAR USUARIO
 
                                 <span class="input-group-text"><i class="fas fa-list"></i></span>
 
-                                <input class="form-control input-lg" name="editarCategoria" id="editarCategoria"
+                                <select class="form-control input-lg"  name="editarCategoria" readonly required>
 
-                                    <?php
+                                    <option id="editarCategoria"></option>
 
-                                    $item = "id";
-                                    $valor = "id_categoria";
-
-                                    $categorias = ControladorCategorias::ctrMostrarCategorias($item, $valor);
-
-
-
-                                        echo ' value="'."id".'" placeholder="'.$categorias["categoria"].'"';
-
-
-                                    ?>
-                                        readonly required>
-
+                                </select>
 
                             </div>
 

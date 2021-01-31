@@ -40,14 +40,16 @@
                                     <div class="input-group-prepend">
                                         <span class="input-group-text"><i class="fas fa-user"></i></span>
                                     </div>
-                                    <input type="text" class="form-control" id="nuevoVendedor" name="nuevoVendedor" value="<?php echo $_SESSION["nombre"]; ?>" readonly>
+                                    <input type="text" class="form-control" id="nuevoVendedor" value="<?php echo $_SESSION["nombre"]; ?>" readonly>
+
                                     <input type="hidden" name="idVendedor" value="<?php echo $_SESSION["id"]; ?>">
+
                                 </div>
 
                             </div>
 
                             <!--=====================================
-                            ENTRADA DEL VENDEDOR
+                            ENTRADA DEL CODIGO
                             ======================================-->
 
                             <div class="form-group">
@@ -139,12 +141,14 @@
 
                             </div>
 
+                            <input type="hidden" id="listaProductos" name="listaProductos">
+
                             <!--=====================================
                             BOTÓN PARA AGREGAR PRODUCTO
                             ======================================-->
 
-                            <button type="button" class="btn btn-default hidden-lg btnAgregarProducto">Agregar producto</button>
-
+                            <!-- <button type="button" class="btn btn-default hidden-lg btnAgregarProducto">Agregar producto</button>
+                            -->
                             <hr>
 
                             <div class="row">
@@ -174,7 +178,9 @@
 
                                                 <div class="input-group">
 
-                                                    <input type="text" class="form-control" min="0" id="nuevoImpuestoVenta" name="nuevoImpuestoVenta" placeholder="0" required>
+                                                    <input type="number" class="form-control" min="0" id="nuevoImpuestoVenta" name="nuevoImpuestoVenta" value="0" placeholder="0">
+                                                    <input type="hidden" name="nuevoPrecioImpuesto" id="nuevoPrecioImpuesto" required>
+                                                    <input type="hidden" name="nuevoPrecioNeto" id="nuevoPrecioNeto" required>
                                                     <div class="input-group-append">
                                                         <div class="input-group-text"><i class="fas fa-percentage"></i></div>
                                                     </div>
@@ -189,8 +195,9 @@
 
                                                     <span class="input-group-addon"><i class="ion ion-social-usd"></i></span>
 
-                                                    <input type="number" min="1" class="form-control" id="nuevoTotalVenta" name="nuevoTotalVenta" placeholder="00000" readonly required>
+                                                    <input type="text" class="form-control" id="nuevoTotalVenta" name="nuevoTotalVenta" total="" placeholder="00000" readonly required>
 
+                                                    <input type="hidden" name="totalVenta" id="totalVenta">
 
                                                 </div>
 
@@ -215,37 +222,41 @@
                                     <div class="input-group">
 
                                         <select class="form-control" id="nuevoMetodoPago" name="nuevoMetodoPago" required>
-                                            <option value="">Seleccione método de pago</option>
-                                            <option value="efectivo">Efectivo</option>
-                                            <option value="tarjetaCredito">Tarjeta Crédito</option>
-                                            <option value="tarjetaDebito">Tarjeta Débito</option>
+                                            <option value="Efectivo">Efectivo</option>
+                                            <option value="TC">Tarjeta Crédito</option>
+                                            <option value="TD">Tarjeta Débito</option>
 
                                         </select>
 
                                     </div>
                                 </div>
-                                <div class="col-6" style="padding-left:0px">
 
-                                    <div class="input-group">
+                                <div class="cajasMetodoPago"></div>
 
-                                        <input type="text" class="form-control" id="nuevoCodigoTransaccion" name="nuevoCodigoTransaccion"placeholder="Código transacción" required>
-                                        <div class="input-group-append">
-                                            <div class="input-group-text"><i class="fas fa-lock"></i></div>
-                                        </div>
+                                <input type="hidden" id="listaMetodoPago" name="listaMetodoPago">
 
-                                    </div>
-                                </div>
                             </div>
 
                             <br>
 
                         </div>
                         <div class="card-footer">
-                            <button type="submit" class="btn btn-primary pull-right">Guardar venta</button>
+
+                            <button type="submit" class="btn btn-primary pull-right">Guardar movimiento</button>
+
                         </div>
+
                     </form>
-                    <!-- /.card-body -->
+
+                    <?php
+
+                    $guardarVenta = new ControladorVentas();
+                    $guardarVenta -> ctrCrearVenta();
+
+                    ?>
+
                 </div>
+
             </div>
 
             <!--=====================================
@@ -262,7 +273,7 @@
 
                     <div class="card-body">
 
-                        <table id="tablas" class="table table-bordered table-striped">
+                        <table class="table table-bordered table-striped tablaVentas">
 
                             <thead>
 
@@ -270,58 +281,20 @@
                                 <th style="width: 10px">#</th>
                                 <th>Código</th>
                                 <th>Descripcion</th>
-                                <th>Categoria</th>
+                                <th>Medida</th>
                                 <th>Stock</th>
                                 <th>Acciones</th>
                             </tr>
 
                             </thead>
 
-                            <?php
 
-                            $item = null;
-
-                            $valor = null;
-
-                            $productos = ControladorProductos::ctrMostrarProductos($item, $valor);
-
-                            foreach ($productos as $key => $value) {
-
-                                echo '<tr>
-                                <td>'.($key+1).'</td>
-                                <td>'.$value["codigo"].'</td>
-                                <td>'.$value["descripcion"].'</td>';
-
-                                $item = "id";
-                                $valor = $value["id_categoria"];
-
-                                $categoria = ControladorCategorias::ctrMostrarCategorias($item, $valor);
-
-                                echo '<td>'.$categoria["categoria"].'</td>
-                                <td>'.$value["stock"].'</td>
-                                <td>
-
-                                    <div class="btn-group">
-                        
-                                        <button class="btn btn-primary agregarProducto recuperarBoton " idProducto="'.$value["id"].'"><i class="fas fa-plus-circle"></i> Agregar</button>
-
-                                    </div>  
-
-                                </td>
-
-                            </tr>';
-
-                            }
-
-                            ?>
 
                         </table>
                     </div>
                 </div>
 
             </div>
-
-
 
         </div>
 

@@ -84,7 +84,7 @@ $(function () {
 
         })
 
-    })
+    });
 
     /*=============================================
      AGREGANDO PRECIO DE VENTA
@@ -202,7 +202,7 @@ $(function () {
      EDITAR PRODUCTO
      =============================================*/
 
-    $(document).on("click", ".btnEditarProducto", function(){
+    $(".tablaProductos tbody").on("click", "button.btnEditarProducto", function(){
 
         var idProducto = $(this).attr("idProducto");
 

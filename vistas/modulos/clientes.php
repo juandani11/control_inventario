@@ -24,12 +24,12 @@
             <div class="card-header">
                 <button class="btn btn-primary" data-toggle="modal" data-target="#modalAgregarCliente">
 
-                    Clientes
+                    Agregar Cliente
 
                 </button>
             </div>
             <div class="card-body">
-                <table id="tablas" class="table table-bordered table-striped tablas">
+                <table class="table table-bordered table-striped tablas">
                     <thead>
                     <tr>
 
@@ -140,6 +140,7 @@ MODAL AGREGAR CLIENTE
                             </div>
 
                         </div>
+
                         <!-- ENTRADA PARA EL DOCUMENTO -->
 
                         <div class="form-group">
@@ -153,6 +154,7 @@ MODAL AGREGAR CLIENTE
                             </div>
 
                         </div>
+
                         <!-- ENTRADA PARA EL EMAIL -->
 
                         <div class="form-group">
@@ -221,12 +223,14 @@ MODAL AGREGAR CLIENTE
             </div>
             <!-- /.modal-content -->
         </form>
+
         <?php
 
         $crearCliente = new ControladorClientes();
         $crearCliente -> ctrCrearCliente();
 
         ?>
+
     </div>
     <!-- /.modal-dialog -->
 </div>
