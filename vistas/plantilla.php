@@ -28,6 +28,10 @@ session_start();
     <link rel="stylesheet" href="vistas/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
     <!-- iCheck for checkboxes and radio inputs -->
     <link rel="stylesheet" href="vistas/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <!-- daterange picker -->
+    <link rel="stylesheet" href="vistas/bower_components/bootstrap-daterangepicker/daterangepicker.css">
+    <!-- Morris chart -->
+    <link rel="stylesheet" href="vistas/bower_components/morris.js/morris.css">
     <!-- ========================
       PLUGINS CSS Y JAVASCRIPT
       ===========================0-->
@@ -62,6 +66,20 @@ session_start();
     <script src="vistas/plugins/inputmask/jquery.inputmask.min.js"></script>
     <!-- jqueryNumber -->
     <script src="vistas/plugins/jqueryNumber/jquerynumber.min.js"></script>
+    <!-- date-range-picker -->
+    <script src="vistas/bower_components/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <script src="vistas/bower_components/moment/min/moment.min.js"></script>
+    <!-- Morris.js charts http://morrisjs.github.io/morris.js/-->
+    <script src="vistas/bower_components/raphael/raphael.min.js"></script>
+    <script src="vistas/bower_components/morris.js/morris.min.js"></script>
+
+
+    <!-- ChartJS -->
+    <script src="vistas/plugins/chart.js/Chart.min.js"></script>
+    <!-- jQuery Knob Chart -->
+    <script src="/vistas/plugins/jquery-knob/jquery.knob.min.js"></script>
+
+
 </head>
 <body class="hold-transition sidebar-mini ">
 <!-- Site wrapper -->
@@ -123,6 +141,7 @@ session_start();
 <script src="vistas/js/productos.js"></script>
 <script src="vistas/js/clientes.js"></script>
 <script src="vistas/js/ventas.js"></script>
+<script src="vistas/js/reportes.js"></script>
 
 </body>
 </html>

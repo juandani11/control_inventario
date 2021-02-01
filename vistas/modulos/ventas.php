@@ -29,7 +29,10 @@
 
                     </button>
                 </a>
-
+                <button type="button" class="btn btn-default float-right" id="daterange-btn">
+                    <i class="far fa-calendar-alt"></i> Rango Fecha
+                    <i class="fas fa-caret-down"></i>
+                </button>
             </div>
             <div class="card-body">
                 <table class="table table-bordered table-striped tablas">
@@ -95,7 +98,7 @@
 
                     <div class="btn-group">
                         
-                      <button class="btn btn-info"><i class="fas fa-print"></i></button>
+                      <button class="btn btn-info btnImprimirFactura" codigoVenta="'.$value["codigo"].'"><i class="fas fa-print"></i></button>
 
                       <button class="btn btn-warning btnEditarVenta" idVenta="'.$value["id"].'"><i class="fas fa-edit"></i></button>
 

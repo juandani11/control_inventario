@@ -2,22 +2,803 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a879302-b9a9-481b-80b4-19cdca02fbf7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aealarabiya.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aealarabiya.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aefurat.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aefurat.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansextralight.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansextralight.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourier.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourierb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourierbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourieri.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelvetica.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticab.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticabi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticai.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfasymbol.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimes.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfazapfdingbats.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/sRGB.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/cert/tcpdf.fdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/cert/tcpdf.p12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/backFact1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/backFact2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/colon_sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/image_demo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/logo-negro-bloque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/logo_example.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/images/logo_example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/drp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/exemplary/area0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/exemplary/bar0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/exemplary/line0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/exemplary/stacked_bar0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/config/tcpdf_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/ae_fonts_2.0/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/ae_fonts_2.0/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/ae_fonts_2.0/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aealarabiya.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/aefurat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/cid0cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/cid0ct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/cid0jp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/cid0kr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/courier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/courierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/courierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/courieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/BUGS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/langcover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavu-fonts-ttf-2.34/unicover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusanscondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansextralight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavusansmonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifcondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/dejavuserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/CREDITS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/TROUBLESHOOTING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freefont-20120503/USAGE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freemonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freesansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/freeserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/helvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/helveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/helveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/helveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/hysmyeongjostdmedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/kozgopromedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/kozminproregular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/msungstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfacourieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfahelveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfasymbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfatimesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/pdfazapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/stsongstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/symbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/times.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/timesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/timesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/timesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/uni2cid_ac15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/uni2cid_ag15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/uni2cid_aj16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/uni2cid_ak12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/fonts/zapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/barcodes/datamatrix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/barcodes/pdf417.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/barcodes/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_colors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_filters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_font_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_fonts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/include/tcpdf_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_1d_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_1d_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_1d_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_1d_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_datamatrix_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_datamatrix_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_datamatrix_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_datamatrix_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_pdf417_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_pdf417_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_pdf417_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_pdf417_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_qrcode_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_qrcode_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_qrcode_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/example_2d_qrcode_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/tcpdf_barcodes_1d_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/barcodes/tcpdf_barcodes_2d_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/config/tcpdf_config_alt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/cert/tcpdf.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/chapter_demo_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/chapter_demo_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/table_data_demo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/data/utf8test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/factura.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/afr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ara.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/aze.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/bel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/bra.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/bul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/cat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/chi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/cym.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/dan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/eng.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/est.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/eus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/far.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/fra.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/gle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/glg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/hat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/heb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/hrv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/hun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/hye.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ita.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/jpn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/kat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/kor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/mkd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/mlt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/msa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/nld.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/nob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/pol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/por.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/rus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/slv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/spa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/sqi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/srp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/swa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/swe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/ukr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/urd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/yid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/lang/zho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/pdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/pdf/tcpdf_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf_autoconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf_barcodes_1d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf_barcodes_2d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tcpdf_parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tools/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tools/convert_fonts_examples.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extensiones/tcpdf/tools/tcpdf_addfont.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/daterangepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/daterangepicker.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/amd/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/amd/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/amd/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/browserify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/browserify/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/browserify/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/example/browserify/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/website/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/website/website.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/bootstrap-daterangepicker/website/website.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/00-Getting-Started.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/01-Line-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/02-Bar-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/03-Radar-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/04-Polar-Area-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/05-Pie-Doughnut-Chart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/06-Advanced.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/docs/07-Notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/doughnut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/line-customTooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/pie-customTooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/polar-area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/samples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.Bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.Core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.Doughnut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.PolarArea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/chart.js/src/Chart.Radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-kw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-ly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/es-do.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/gom-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/mi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/nl-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/uz-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/yo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/zh-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/moment-with-locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/min/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/moment.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/check-overflow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/date-from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-anything.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-string-and-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-string-and-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/from-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/parsing-flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/create/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/abs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/as.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/humanize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/iso-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/duration/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/format/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/base-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/invalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/lists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/ordinal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/pre-post-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/relative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/locale/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/creation-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/from.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/get-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/min-max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/start-end-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/to-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/moment/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/parse/regex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/parse/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/aliases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/day-of-month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/day-of-week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/day-of-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/hour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/millisecond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/minute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/priorities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/quarter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/timestamp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/timezone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/units.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/week-calendar-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/week-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/units/year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/abs-ceil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/abs-floor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/abs-round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/compare-arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/deprecate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/has-own-prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/index-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-object-empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/is-undefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/some.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/to-int.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/lib/utils/zero-fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-dz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-kw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-ly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/es-do.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/gom-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/mi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/nl-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/uz-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/yo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/zh-hk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/src/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/templates/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/templates/locale-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/moment/templates/test-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/bower.travis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/area-as-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/bar-colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/bar-no-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/days.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/decimal-custom-hover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/diagonal-xlabels-bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/diagonal-xlabels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/donut-colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/donut-formatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/donut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/dst.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/goals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/lib/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/lib/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/months-no-smooth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/negative.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/no-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/non-continuous.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/non-date.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/quarters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/stacked_bars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/timestamps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/updating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/weeks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/examples/years.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/less/morris.core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.area.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.bar.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.donut.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.grid.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.hover.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/lib/morris.line.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/area/area_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/bar/bar_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/bar/colours.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/commas_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/donut/donut_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/grid/auto_grid_lines_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/grid/set_data_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/grid/y_label_format_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/hover_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/label_series_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/line/line_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/pad_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/lib/parse_time_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/specs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/support/placeholder.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/examples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/morris.js/spec/viz/visual_specs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/banner.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/raphael.amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/raphael.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/raphael.svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/raphael.vml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/test/svg/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/dev/test/vml/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/raphael.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/raphael.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/raphael.no-deps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/raphael.no-deps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/bower_components/raphael/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/js/reportes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/modulos/reportes/compradores.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/modulos/reportes/grafico-ventas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/modulos/reportes/productos-mas-vendidos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vistas/modulos/reportes/vendedores.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/controladores.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modelos.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vistas.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/datatable-productos.ajax.php" afterPath="$PROJECT_DIR$/ajax/datatable-productos.ajax.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/datatable-ventas.ajax.php" afterPath="$PROJECT_DIR$/ajax/datatable-ventas.ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controladores/clientes.controlador.php" afterPath="$PROJECT_DIR$/controladores/clientes.controlador.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax/productos.ajax.php" afterPath="$PROJECT_DIR$/ajax/productos.ajax.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controladores/productos.controlador.php" afterPath="$PROJECT_DIR$/controladores/productos.controlador.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controladores/ventas.controlador.php" afterPath="$PROJECT_DIR$/controladores/ventas.controlador.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelos/clientes.modelo.php" afterPath="$PROJECT_DIR$/modelos/clientes.modelo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelos/productos.modelo.php" afterPath="$PROJECT_DIR$/modelos/productos.modelo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modelos/ventas.modelo.php" afterPath="$PROJECT_DIR$/modelos/ventas.modelo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/js/categorias.js" afterPath="$PROJECT_DIR$/vistas/js/categorias.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/js/productos.js" afterPath="$PROJECT_DIR$/vistas/js/productos.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/js/ventas.js" afterPath="$PROJECT_DIR$/vistas/js/ventas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/categorias.php" afterPath="$PROJECT_DIR$/vistas/modulos/categorias.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/clientes.php" afterPath="$PROJECT_DIR$/vistas/modulos/clientes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/crear-venta.php" afterPath="$PROJECT_DIR$/vistas/modulos/crear-venta.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/productos.php" afterPath="$PROJECT_DIR$/vistas/modulos/productos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/editar-venta.php" afterPath="$PROJECT_DIR$/vistas/modulos/editar-venta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/reportes.php" afterPath="$PROJECT_DIR$/vistas/modulos/reportes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/modulos/ventas.php" afterPath="$PROJECT_DIR$/vistas/modulos/ventas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vistas/plantilla.php" afterPath="$PROJECT_DIR$/vistas/plantilla.php" />
     </list>
@@ -31,46 +812,129 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ventas.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/js/ventas.js">
+      <file leaf-file-name="productos-mas-vendidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/modulos/reportes/productos-mas-vendidos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="125" column="56" lean-forward="false" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="56" />
+            <state relative-caret-position="432">
+              <caret line="113" column="50" lean-forward="false" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
               <folding>
-                <element signature="e#312#1488#0" expanded="false" />
-                <marker date="1612134054215" expanded="true" signature="2933:2949" ph="..." />
-                <marker date="1612134054215" expanded="true" signature="2997:3014" ph="..." />
-                <marker date="1612134054215" expanded="true" signature="4051:4067" ph="..." />
-                <marker date="1612134054215" expanded="true" signature="7499:7515" ph="..." />
-                <marker date="1612134054215" expanded="true" signature="7567:7584" ph="..." />
-                <marker date="1612134054215" expanded="true" signature="8739:8755" ph="..." />
+                <marker date="1612164968709" expanded="true" signature="1433:1802" ph="..." />
+                <marker date="1612164968709" expanded="true" signature="1469:1785" ph="..." />
+                <marker date="1612164968709" expanded="true" signature="1561:1578" ph="..." />
+                <marker date="1612164968709" expanded="true" signature="1678:1765" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="editar-venta.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vistas/modulos/editar-venta.php">
+      <file leaf-file-name="productos.modelo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelos/productos.modelo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="176" column="59" lean-forward="false" selection-start-line="176" selection-start-column="59" selection-end-line="176" selection-end-column="59" />
+            <state relative-caret-position="2635">
+              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding>
-                <element signature="n#section#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#1152#1157#0#PHP" expanded="false" />
-                <element signature="e#4379#4384#0#PHP" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-                <marker date="1612134073853" expanded="true" signature="6173:6189" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6190:7970" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6255:6272" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6273:6975" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6338:6943" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6429:6655" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="6430:6655" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="7020:7294" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="7361:7377" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="7378:7940" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="7431:7893" ph="..." />
-                <marker date="1612134073853" expanded="true" signature="7722:7860" ph="..." />
+                <marker date="1612164011458" expanded="true" signature="347:405" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612164011458" expanded="true" signature="616:630" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612164011458" expanded="true" signature="616:657" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612164011458" expanded="true" signature="1045:1236" ph="INSERT INTO ${$tabla}... " />
+                <marker date="1612164011458" expanded="true" signature="2186:2379" ph="UPDATE ${$ta... " />
+                <marker date="1612164011458" expanded="true" signature="3332:3365" ph="DELETE FROM " />
+                <marker date="1612164011458" expanded="true" signature="3863:3912" ph="UPDATE ${$ta... " />
+                <marker date="1612164011458" expanded="true" signature="4448:4481" ph="SELECT SUM(v... ${$tabla}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ventas.modelo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelos/ventas.modelo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2948">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <element signature="n#mdlSumaTotalVentas#0;n#ModeloVentas#0;n#!!top" expanded="false" />
+                <marker date="1612142018365" expanded="true" signature="334:391" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="602:638" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="1022:1216" ph="INSERT INTO ${$tabla}... " />
+                <marker date="1612142018365" expanded="true" signature="2218:2415" ph="UPDATE ${$ta... " />
+                <marker date="1612142018365" expanded="true" signature="3421:3454" ph="DELETE FROM " />
+                <marker date="1612142018365" expanded="true" signature="3986:4022" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="4202:4255" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="4875:4955" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="5036:5110" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1612142018365" expanded="true" signature="5459:5490" ph="SELECT SUM(n... ${$tabla}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ventas.controlador.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controladores/ventas.controlador.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+              <folding>
+                <marker date="1612194004958" expanded="true" signature="3279:3613" ph="..." />
+                <marker date="1612194004958" expanded="true" signature="3335:3493" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+                <marker date="1612194004958" expanded="true" signature="3512:3532" ph="{...}" />
+                <marker date="1612194004958" expanded="true" signature="3540:3589" ph="{...}" />
+                <marker date="1612194004958" expanded="true" signature="9140:9473" ph="..." />
+                <marker date="1612194004958" expanded="true" signature="9196:9353" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+                <marker date="1612194004958" expanded="true" signature="9372:9392" ph="{...}" />
+                <marker date="1612194004958" expanded="true" signature="9400:9449" ph="{...}" />
+                <marker date="1612194004958" expanded="true" signature="13523:13847" ph="..." />
+                <marker date="1612194004958" expanded="true" signature="13540:13727" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+                <marker date="1612194004958" expanded="true" signature="13746:13766" ph="{...}" />
+                <marker date="1612194004958" expanded="true" signature="13774:13823" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productos-mas-vendidos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/modulos/reportes/productos-mas-vendidos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="123" selection-end-column="5" />
+              <folding>
+                <element signature="e#1205#1210#0#PHP" expanded="false" />
+                <element signature="e#1944#1949#0#PHP" expanded="false" />
+                <marker date="1612163631163" expanded="true" signature="1274:1625" ph="..." />
+                <marker date="1612163631163" expanded="true" signature="1293:1608" ph="..." />
+                <marker date="1612163631163" expanded="false" signature="1385:1402" ph="..." />
+                <marker date="1612163631163" expanded="true" signature="1501:1588" ph="..." />
+                <marker date="1612163631163" expanded="true" signature="3422:3465" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productos.controlador.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/controladores/productos.controlador.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="360" selection-end-column="5" />
+              <folding>
+                <marker date="1530159546000" expanded="true" signature="3387:3709" ph="..." />
+                <marker date="1530159546000" expanded="true" signature="3401:3572" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+                <marker date="1530159546000" expanded="true" signature="3595:3692" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="3625:3681" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="3749:4087" ph="..." />
+                <marker date="1530159546000" expanded="true" signature="3762:3962" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+                <marker date="1530159546000" expanded="true" signature="3985:4070" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="4012:4062" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="7529:7850" ph="..." />
+                <marker date="1530159546000" expanded="true" signature="7543:7713" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+                <marker date="1530159546000" expanded="true" signature="7736:7833" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="7766:7822" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="7890:8228" ph="..." />
+                <marker date="1530159546000" expanded="true" signature="7903:8103" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+                <marker date="1530159546000" expanded="true" signature="8126:8211" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="8153:8203" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="8803:9102" ph="..." />
+                <marker date="1530159546000" expanded="true" signature="8815:8975" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+                <marker date="1530159546000" expanded="true" signature="8998:9087" ph="{...}" />
+                <marker date="1530159546000" expanded="true" signature="9026:9078" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -95,6 +959,12 @@
       <find>nuevoTotal</find>
       <find>impue</find>
       <find>produc</find>
+      <find>while</find>
+      <find>agregar</find>
+      <find>php</find>
+      <find>line-chart</find>
+      <find>mostrarP</find>
+      <find>monstrarProd</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,12 +973,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vistas/modulos/footer.php" />
-        <option value="$PROJECT_DIR$/vistas/modulos/contenido.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/vistas/modulos/movimientos.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/crear-movimiento.php" />
-        <option value="$PROJECT_DIR$/vistas/modulos/reportes.php" />
         <option value="$PROJECT_DIR$/controladores/movimientos.controlador.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/404.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/cabezote.php" />
@@ -133,25 +998,32 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/menu.php" />
         <option value="$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/vistas/modulos/crear-venta.html.php" />
-        <option value="$PROJECT_DIR$/ajax/productos.ajax.php" />
-        <option value="$PROJECT_DIR$/modelos/productos.modelo.php" />
         <option value="$PROJECT_DIR$/modelos/clientes.modelo.php" />
-        <option value="$PROJECT_DIR$/ajax/datatable-ventas.ajax.php" />
-        <option value="$PROJECT_DIR$/vistas/plantilla.php" />
         <option value="$PROJECT_DIR$/controladores/clientes.controlador.php" />
-        <option value="$PROJECT_DIR$/controladores/ventas.controlador.php" />
-        <option value="$PROJECT_DIR$/modelos/ventas.modelo.php" />
-        <option value="$PROJECT_DIR$/ajax/datatable-productos.ajax.php" />
         <option value="$PROJECT_DIR$/vistas/js/productos.js" />
         <option value="$PROJECT_DIR$/vistas/modulos/productos.php" />
-        <option value="$PROJECT_DIR$/controladores/productos.controlador.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/clientes.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/categorias.php" />
         <option value="$PROJECT_DIR$/vistas/js/categorias.js" />
         <option value="$PROJECT_DIR$/vistas/modulos/crear-venta.php" />
+        <option value="$PROJECT_DIR$/extensiones/tcpdf/pdf/factura.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/ventas.php" />
         <option value="$PROJECT_DIR$/vistas/js/ventas.js" />
+        <option value="$PROJECT_DIR$/modelos/ventas.modelo.php" />
+        <option value="$PROJECT_DIR$/vistas/js/reportes.js" />
+        <option value="$PROJECT_DIR$/vistas/plantilla.php" />
+        <option value="$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/modulos/reportes.php" />
+        <option value="$PROJECT_DIR$/vistas/modulos/reportes.php" />
+        <option value="$PROJECT_DIR$/vistas/modulos/reportes/grafico-ventas.php" />
+        <option value="$PROJECT_DIR$/ajax/datatable-productos.ajax.php" />
+        <option value="$PROJECT_DIR$/ajax/datatable-ventas.ajax.php" />
+        <option value="$PROJECT_DIR$/ajax/productos.ajax.php" />
         <option value="$PROJECT_DIR$/vistas/modulos/editar-venta.php" />
+        <option value="$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/modulos/reportes/productos-mas-vendidos.php" />
+        <option value="$PROJECT_DIR$/modelos/productos.modelo.php" />
+        <option value="$PROJECT_DIR$/controladores/productos.controlador.php" />
+        <option value="$PROJECT_DIR$/vistas/modulos/reportes/productos-mas-vendidos.php" />
+        <option value="$PROJECT_DIR$/controladores/ventas.controlador.php" />
       </list>
     </option>
   </component>
@@ -241,7 +1113,43 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="modulos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reportes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control_inventario" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control_inventario" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control_inventario" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control_inventario" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelos" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,6 +1190,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="SearchEverywhereHistoryKey" value="ctrMostrarProductos&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -376,6 +1286,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1a879302-b9a9-481b-80b4-19cdca02fbf7" name="Default" comment="" />
@@ -394,12 +1307,12 @@
       <workItem from="1611945609931" duration="10082000" />
       <workItem from="1612028236386" duration="7687000" />
       <workItem from="1612045269167" duration="3181000" />
-      <workItem from="1612106066919" duration="16677000" />
+      <workItem from="1612106066919" duration="37962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181189000" />
+    <option name="totallyTimeSpent" value="202474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -409,10 +1322,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -420,7 +1334,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -437,226 +1350,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/categorias.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/categorias.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/clientes.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/clientes.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/datatable-productos.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/datatable-ventas.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/datatable-ventas.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/productos.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/productos.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1489">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/usuarios.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1234">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/ajax/usuarios.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="87" column="38" lean-forward="false" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/controladores/categorias.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2645">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1518262856000" expanded="true" signature="507:820" ph="..." />
-            <marker date="1518262856000" expanded="true" signature="520:687" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518262856000" expanded="true" signature="710:804" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="739:794" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="860:1184" ph="..." />
-            <marker date="1518262856000" expanded="true" signature="873:1058" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1518262856000" expanded="true" signature="1081:1167" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="1108:1159" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="2048:2361" ph="..." />
-            <marker date="1518262856000" expanded="true" signature="2061:2228" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518262856000" expanded="true" signature="2251:2345" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="2280:2335" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="2401:2725" ph="..." />
-            <marker date="1518262856000" expanded="true" signature="2414:2599" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1518262856000" expanded="true" signature="2622:2708" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="2649:2700" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="3120:3432" ph="..." />
-            <marker date="1518262856000" expanded="true" signature="3133:3299" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518262856000" expanded="true" signature="3322:3416" ph="{...}" />
-            <marker date="1518262856000" expanded="true" signature="3351:3406" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controladores/categorias.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1608">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#ctrEditarCategoria#0;n#ControladorCategorias#0;n#!!top" expanded="false" />
-            <marker date="1611682125756" expanded="true" signature="597:878" ph="..." />
-            <marker date="1611682125756" expanded="true" signature="615:745" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
-            <marker date="1611682125756" expanded="true" signature="768:862" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="797:852" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="951:1243" ph="..." />
-            <marker date="1611682125756" expanded="true" signature="969:1117" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
-            <marker date="1611682125756" expanded="true" signature="1140:1226" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="1167:1218" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="2257:2538" ph="..." />
-            <marker date="1611682125756" expanded="true" signature="2275:2405" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1611682125756" expanded="true" signature="2428:2522" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="2457:2512" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="2611:2903" ph="..." />
-            <marker date="1611682125756" expanded="true" signature="2629:2777" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1611682125756" expanded="true" signature="2800:2886" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="2827:2878" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="3382:3662" ph="..." />
-            <marker date="1611682125756" expanded="true" signature="3400:3529" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1611682125756" expanded="true" signature="3552:3646" ph="{...}" />
-            <marker date="1611682125756" expanded="true" signature="3581:3636" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/controladores/clientes.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="169" column="48" lean-forward="true" selection-start-line="169" selection-start-column="48" selection-end-line="169" selection-end-column="48" />
-          <folding>
-            <element signature="e#196#1821#0#PHP" expanded="false" />
-            <marker date="1518263634000" expanded="true" signature="1137:1446" ph="..." />
-            <marker date="1518263634000" expanded="true" signature="1150:1315" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518263634000" expanded="true" signature="1338:1430" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="1367:1420" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="1485:1805" ph="..." />
-            <marker date="1518263634000" expanded="true" signature="1498:1681" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1518263634000" expanded="true" signature="1704:1788" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="1731:1780" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="3282:3591" ph="..." />
-            <marker date="1518263634000" expanded="true" signature="3295:3460" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518263634000" expanded="true" signature="3483:3575" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="3512:3565" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="3630:3950" ph="..." />
-            <marker date="1518263634000" expanded="true" signature="3643:3826" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1518263634000" expanded="true" signature="3849:3933" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="3876:3925" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="4339:4636" ph="..." />
-            <marker date="1518263634000" expanded="true" signature="4351:4510" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1518263634000" expanded="true" signature="4533:4621" ph="{...}" />
-            <marker date="1518263634000" expanded="true" signature="4561:4612" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controladores/clientes.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="173" column="48" lean-forward="true" selection-start-line="173" selection-start-column="48" selection-end-line="173" selection-end-column="48" />
-          <folding>
-            <element signature="e#214#2011#0#PHP" expanded="false" />
-            <element signature="n#ctrMostrarClientes#0;n#ControladorClientes#0;n#!!top" expanded="false" />
-            <marker date="1612115975874" expanded="true" signature="1273:1281" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="1273:1583" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="1291:1452" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="1475:1567" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="1504:1557" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="1655:1980" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="1673:1856" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
-            <marker date="1612115975874" expanded="false" signature="1687:1856" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="1879:1963" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="1906:1955" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="3653:3967" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="3671:3836" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="3859:3951" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="3888:3941" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="4039:4427" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="4057:4223" ph="{&quot;icon&quot;: &quot;error&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="4057:4245" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="4268:4410" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="4295:4394" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="4900:5202" ph="..." />
-            <marker date="1612115975874" expanded="true" signature="4917:4931" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="4917:5076" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1612115975874" expanded="true" signature="5099:5187" ph="{...}" />
-            <marker date="1612115975874" expanded="true" signature="5127:5178" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controladores/plantilla.controlador.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -775,27 +1468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controladores/ventas.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="417" column="27" lean-forward="true" selection-start-line="417" selection-start-column="27" selection-end-line="417" selection-end-column="27" />
-          <folding>
-            <marker date="1612116262319" expanded="true" signature="3240:3574" ph="..." />
-            <marker date="1612116262319" expanded="true" signature="3296:3454" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
-            <marker date="1612116262319" expanded="true" signature="3473:3493" ph="{...}" />
-            <marker date="1612116262319" expanded="true" signature="3501:3550" ph="{...}" />
-            <marker date="1612116262319" expanded="true" signature="9101:9434" ph="..." />
-            <marker date="1612116262319" expanded="true" signature="9157:9314" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
-            <marker date="1612116262319" expanded="true" signature="9333:9353" ph="{...}" />
-            <marker date="1612116262319" expanded="true" signature="9361:9410" ph="{...}" />
-            <marker date="1612116262319" expanded="true" signature="13484:13808" ph="..." />
-            <marker date="1612116262319" expanded="true" signature="13501:13688" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
-            <marker date="1612116262319" expanded="true" signature="13707:13727" ph="{...}" />
-            <marker date="1612116262319" expanded="true" signature="13735:13784" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/modelos/categorias.modelo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1557">
@@ -854,21 +1526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelos/productos.modelo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="150" column="5" lean-forward="true" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
-          <folding>
-            <marker date="1612109470472" expanded="true" signature="339:397" ph="SELECT * FRO... ${$tabla}" />
-            <marker date="1612109470472" expanded="true" signature="608:622" ph="SELECT * FRO... ${$tabla}" />
-            <marker date="1612109470472" expanded="true" signature="1016:1207" ph="INSERT INTO ${$tabla}... " />
-            <marker date="1612109470472" expanded="true" signature="2157:2350" ph="UPDATE ${$ta... " />
-            <marker date="1612109470472" expanded="true" signature="3303:3336" ph="DELETE FROM " />
-            <marker date="1612109470472" expanded="true" signature="3834:3883" ph="UPDATE ${$ta... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modelos/usuarios.modelo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2081">
@@ -895,20 +1552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelos/ventas.modelo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="107" column="60" lean-forward="true" selection-start-line="107" selection-start-column="60" selection-end-line="107" selection-end-column="60" />
-          <folding>
-            <marker date="1612116937899" expanded="true" signature="334:391" ph="SELECT * FRO... ${$tabla}" />
-            <marker date="1612116937899" expanded="true" signature="602:638" ph="SELECT * FRO... ${$tabla}" />
-            <marker date="1612116937899" expanded="true" signature="1022:1216" ph="INSERT INTO ${$tabla}... " />
-            <marker date="1612116937899" expanded="true" signature="2218:2415" ph="UPDATE ${$ta... " />
-            <marker date="1612116937899" expanded="true" signature="3421:3454" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/07 Gestor de ventas/pos/modelos/productos.modelo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -921,14 +1564,6 @@
             <marker date="1514045508000" expanded="true" signature="2959:2992" ph="DELETE FROM " />
             <marker date="1514045508000" expanded="true" signature="3417:3466" ph="UPDATE ${$ta... " />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/datatable-productos.ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="71" column="414" lean-forward="false" selection-start-line="71" selection-start-column="414" selection-end-line="71" selection-end-column="414" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,38 +1590,6 @@
             <element signature="n#div#3;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#4;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#4;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controladores/productos.controlador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1612126038136" expanded="true" signature="4185:4474" ph="..." />
-            <marker date="1612126038136" expanded="true" signature="4204:4220" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="4204:4337" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1612126038136" expanded="true" signature="4360:4457" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="4390:4446" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="4547:4853" ph="..." />
-            <marker date="1612126038136" expanded="true" signature="4565:4728" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1612126038136" expanded="true" signature="4751:4836" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="4778:4828" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="9198:9486" ph="..." />
-            <marker date="1612126038136" expanded="true" signature="9217:9233" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="9217:9349" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1612126038136" expanded="true" signature="9372:9469" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="9402:9458" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="9559:9867" ph="..." />
-            <marker date="1612126038136" expanded="true" signature="9577:9742" ph="{&quot;type&quot;: &quot;error&quot;...}" />
-            <marker date="1612126038136" expanded="true" signature="9765:9850" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="9792:9842" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="10568:10872" ph="..." />
-            <marker date="1612126038136" expanded="true" signature="10585:10599" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="10585:10745" ph="{&quot;type&quot;: &quot;success&quot;...}" />
-            <marker date="1612126038136" expanded="true" signature="10768:10857" ph="{...}" />
-            <marker date="1612126038136" expanded="true" signature="10796:10848" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1044,7 +1647,7 @@
         <state relative-caret-position="305">
           <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1105,26 +1708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/ventas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding>
-            <marker date="1612131227079" expanded="true" signature="1940:2030" ph="..." />
-            <marker date="1612131227079" expanded="true" signature="2884:3368" ph="..." />
-            <marker date="1612131227079" expanded="true" signature="2929:3341" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/modulos/crear-venta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="223" column="122" lean-forward="false" selection-start-line="223" selection-start-column="122" selection-end-line="223" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modulos/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1153,43 +1736,468 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/controladores/ventas.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="478" selection-end-column="5" />
+          <folding>
+            <marker date="1551728850000" expanded="true" signature="771:1069" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="783:945" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+            <marker date="1551728850000" expanded="true" signature="968:1054" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="996:1045" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="3190:3523" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="3241:3399" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1551728850000" expanded="true" signature="3422:3508" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="3450:3499" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="8081:8409" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="8132:8289" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1551728850000" expanded="true" signature="8308:8328" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="8336:8385" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="11748:12041" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="11760:11917" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1551728850000" expanded="true" signature="11940:12026" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="11968:12017" ph="{...}" />
+            <marker date="1551728850000" expanded="true" signature="13533:14278" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="13545:14278" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13564:13604" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13635:13675" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13706:13746" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13778:13818" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13850:13890" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13923:13963" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="13995:14035" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14065:14105" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14136:14176" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14214:14254" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="14518:14770" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14538:14560" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14606:14628" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14676:14698" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="14747:14769" ph="..." />
+            <marker date="1551728850000" expanded="true" signature="15007:15029" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="15222:15244" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="15308:15330" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="15391:15413" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="15474:15496" ph="..." />
+            <marker date="1551728850000" expanded="false" signature="15544:15566" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/modelos/ventas.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="201" column="1" lean-forward="true" selection-start-line="201" selection-start-column="1" selection-end-line="201" selection-end-column="1" />
+          <folding>
+            <element signature="n#mdlEliminarVenta#0;n#ModeloVentas#0;n#!!top" expanded="false" />
+            <element signature="n#mdlRangoFechasVentas#0;n#ModeloVentas#0;n#!!top" expanded="false" />
+            <element signature="n#mdlSumaTotalVentas#0;n#ModeloVentas#0;n#!!top" expanded="false" />
+            <marker date="1530284480000" expanded="true" signature="303:360" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1530284480000" expanded="true" signature="529:565" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1530284480000" expanded="true" signature="893:1087" ph="INSERT INTO ${$tabla}... " />
+            <marker date="1530284480000" expanded="true" signature="1974:2171" ph="UPDATE ${$ta... " />
+            <marker date="1530284480000" expanded="true" signature="3062:3095" ph="DELETE FROM " />
+            <marker date="1530284480000" expanded="true" signature="3547:3583" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1530284480000" expanded="true" signature="3731:3784" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1530284480000" expanded="true" signature="4296:4376" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1530284480000" expanded="true" signature="4436:4510" ph="SELECT * FRO... ${$tabla}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensiones/tcpdf/pdf/factura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="184" column="58" lean-forward="false" selection-start-line="184" selection-start-column="58" selection-end-line="184" selection-end-column="58" />
+          <folding>
+            <marker date="1612137498689" expanded="true" signature="1692:2397" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="1702:2386" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="1722:1733" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="1796:1831" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="1832:2012" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="1855:1907" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="1908:2002" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2029:2064" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2065:2256" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2084:2136" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2137:2242" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2273:2338" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2554:2650" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2564:2639" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2584:2595" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2668:2701" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2702:3231" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2711:2976" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2730:2789" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2790:2840" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="2857:2934" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2935:2967" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="2984:3113" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3003:3062" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="3121:3220" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3139:3205" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3396:3429" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="3430:3894" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="3438:3883" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3456:3534" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3563:3640" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3669:3747" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="3779:3857" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="4412:4445" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4446:5028" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4454:5017" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="4474:4564" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4565:4597" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="4614:4703" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4704:4733" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="4750:4840" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4841:4871" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="4888:4978" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="4979:5007" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5197:5230" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5231:6739" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5239:5565" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5256:5322" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5345:5430" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5453:5550" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5575:5950" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5594:5690" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5713:5792" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5793:5812" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5829:5919" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5920:5941" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="5958:6340" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="5975:6071" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="6094:6172" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="6173:6196" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="6215:6305" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="6306:6331" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="6348:6727" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="6367:6463" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="6486:6564" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="6565:6585" ph="..." />
+            <marker date="1612137498689" expanded="false" signature="6605:6695" ph="..." />
+            <marker date="1612137498689" expanded="true" signature="6696:6718" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/crear-venta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="41" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/ventas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <marker date="1612139428189" expanded="true" signature="2181:2271" ph="..." />
+            <marker date="1612139428189" expanded="true" signature="3125:3663" ph="..." />
+            <marker date="1612139428189" expanded="true" signature="3170:3279" ph="..." />
+            <marker date="1612139428189" expanded="true" signature="3170:3280" ph="..." />
+            <marker date="1612139428189" expanded="true" signature="3170:3310" ph="..." />
+            <marker date="1612139428189" expanded="true" signature="3170:3636" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/js/ventas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="125" column="56" lean-forward="false" selection-start-line="125" selection-start-column="30" selection-end-line="125" selection-end-column="56" />
+        <state relative-caret-position="135">
+          <caret line="845" column="36" lean-forward="false" selection-start-line="845" selection-start-column="33" selection-end-line="845" selection-end-column="36" />
           <folding>
             <element signature="e#312#1488#0" expanded="false" />
-            <marker date="1612134054215" expanded="true" signature="2933:2949" ph="..." />
-            <marker date="1612134054215" expanded="true" signature="2997:3014" ph="..." />
-            <marker date="1612134054215" expanded="true" signature="4051:4067" ph="..." />
-            <marker date="1612134054215" expanded="true" signature="7499:7515" ph="..." />
-            <marker date="1612134054215" expanded="true" signature="7567:7584" ph="..." />
-            <marker date="1612134054215" expanded="true" signature="8739:8755" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="2933:2949" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="2997:3014" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="4051:4067" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="7499:7515" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="7567:7584" ph="..." />
+            <marker date="1612140891320" expanded="true" signature="8739:8755" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/modulos/reportes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="43" column="73" lean-forward="false" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
+          <folding>
+            <element signature="e#1577#1582#0#PHP" expanded="false" />
+            <element signature="e#1740#1745#0#PHP" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#2073#2078#0#PHP" expanded="false" />
+            <marker date="1612161651727" expanded="true" signature="99:145" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/js/reportes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="146" column="9" lean-forward="true" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/reportes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="e#1233#1238#0#PHP" expanded="false" />
+            <element signature="e#1438#1443#0#PHP" expanded="false" />
+            <element signature="e#1852#1857#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/reportes/grafico-ventas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#1528#1533#0#PHP" expanded="false" />
+            <element signature="e#1830#1835#0#PHP" expanded="false" />
+            <element signature="e#2470#2475#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/plantilla.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/datatable-productos.ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/datatable-ventas.ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/productos.ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/modelos/productos.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="166" selection-end-column="5" />
+          <folding>
+            <marker date="1517606970000" expanded="true" signature="320:378" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1517606970000" expanded="true" signature="547:588" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1517606970000" expanded="true" signature="919:1110" ph="INSERT INTO ${$tabla}... " />
+            <marker date="1517606970000" expanded="true" signature="1951:2144" ph="UPDATE ${$ta... " />
+            <marker date="1517606970000" expanded="true" signature="2988:3021" ph="DELETE FROM " />
+            <marker date="1517606970000" expanded="true" signature="3446:3495" ph="UPDATE ${$ta... " />
+            <marker date="1517606970000" expanded="true" signature="3954:3987" ph="SELECT SUM(v... ${$tabla}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/modulos/editar-venta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="176" column="59" lean-forward="false" selection-start-line="176" selection-start-column="59" selection-end-line="176" selection-end-column="59" />
+        <state relative-caret-position="51">
+          <caret line="210" column="57" lean-forward="true" selection-start-line="210" selection-start-column="57" selection-end-line="210" selection-end-column="57" />
           <folding>
-            <element signature="n#section#0;n#div#0;n#!!top" expanded="false" />
             <element signature="e#1152#1157#0#PHP" expanded="false" />
             <element signature="e#4379#4384#0#PHP" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#1;n#div#0;n#!!top" expanded="false" />
-            <marker date="1612134073853" expanded="true" signature="6173:6189" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6190:7970" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6255:6272" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6273:6975" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6338:6943" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6429:6655" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="6430:6655" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="7020:7294" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="7361:7377" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="7378:7940" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="7431:7893" ph="..." />
-            <marker date="1612134073853" expanded="true" signature="7722:7860" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6232:6248" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6249:8029" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6314:6331" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6332:7034" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6397:7002" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6488:6714" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="6489:6714" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="7079:7353" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="7420:7436" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="7437:7999" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="7490:7952" ph="..." />
+            <marker date="1612163515344" expanded="true" signature="7781:7919" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/controladores/productos.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="360" selection-end-column="5" />
+          <folding>
+            <marker date="1530159546000" expanded="true" signature="3387:3709" ph="..." />
+            <marker date="1530159546000" expanded="true" signature="3401:3572" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1530159546000" expanded="true" signature="3595:3692" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="3625:3681" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="3749:4087" ph="..." />
+            <marker date="1530159546000" expanded="true" signature="3762:3962" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+            <marker date="1530159546000" expanded="true" signature="3985:4070" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="4012:4062" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="7529:7850" ph="..." />
+            <marker date="1530159546000" expanded="true" signature="7543:7713" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1530159546000" expanded="true" signature="7736:7833" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="7766:7822" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="7890:8228" ph="..." />
+            <marker date="1530159546000" expanded="true" signature="7903:8103" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+            <marker date="1530159546000" expanded="true" signature="8126:8211" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="8153:8203" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="8803:9102" ph="..." />
+            <marker date="1530159546000" expanded="true" signature="8815:8975" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1530159546000" expanded="true" signature="8998:9087" ph="{...}" />
+            <marker date="1530159546000" expanded="true" signature="9026:9078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controladores/productos.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="346" column="4" lean-forward="false" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
+          <folding>
+            <marker date="1612164043827" expanded="true" signature="4201:4490" ph="..." />
+            <marker date="1612164043827" expanded="true" signature="4220:4236" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="4220:4353" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1612164043827" expanded="true" signature="4376:4473" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="4406:4462" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="4563:4869" ph="..." />
+            <marker date="1612164043827" expanded="true" signature="4581:4744" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+            <marker date="1612164043827" expanded="true" signature="4767:4852" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="4794:4844" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="9214:9502" ph="..." />
+            <marker date="1612164043827" expanded="true" signature="9233:9249" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="9233:9365" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1612164043827" expanded="true" signature="9388:9485" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="9418:9474" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="9575:9883" ph="..." />
+            <marker date="1612164043827" expanded="true" signature="9593:9758" ph="{&quot;type&quot;: &quot;error&quot;...}" />
+            <marker date="1612164043827" expanded="true" signature="9781:9866" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="9808:9858" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="10584:10888" ph="..." />
+            <marker date="1612164043827" expanded="true" signature="10601:10615" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="10601:10761" ph="{&quot;type&quot;: &quot;success&quot;...}" />
+            <marker date="1612164043827" expanded="true" signature="10784:10873" ph="{...}" />
+            <marker date="1612164043827" expanded="true" signature="10812:10864" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/MEGAsync Downloads/PKCSPIVP7A/08 Facturacion y Reportes/086 07.Facturas-Reportes/pos/vistas/modulos/reportes/productos-mas-vendidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="123" selection-end-column="5" />
+          <folding>
+            <element signature="e#1205#1210#0#PHP" expanded="false" />
+            <element signature="e#1944#1949#0#PHP" expanded="false" />
+            <marker date="1612163631163" expanded="true" signature="1274:1625" ph="..." />
+            <marker date="1612163631163" expanded="true" signature="1293:1608" ph="..." />
+            <marker date="1612163631163" expanded="false" signature="1385:1402" ph="..." />
+            <marker date="1612163631163" expanded="true" signature="1501:1588" ph="..." />
+            <marker date="1612163631163" expanded="true" signature="3422:3465" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/modulos/reportes/productos-mas-vendidos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="113" column="50" lean-forward="false" selection-start-line="113" selection-start-column="50" selection-end-line="113" selection-end-column="50" />
+          <folding>
+            <marker date="1612164968709" expanded="true" signature="1433:1802" ph="..." />
+            <marker date="1612164968709" expanded="true" signature="1469:1785" ph="..." />
+            <marker date="1612164968709" expanded="true" signature="1561:1578" ph="..." />
+            <marker date="1612164968709" expanded="true" signature="1678:1765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/productos.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <folding>
+            <marker date="1612164011458" expanded="true" signature="347:405" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612164011458" expanded="true" signature="616:630" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612164011458" expanded="true" signature="616:657" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612164011458" expanded="true" signature="1045:1236" ph="INSERT INTO ${$tabla}... " />
+            <marker date="1612164011458" expanded="true" signature="2186:2379" ph="UPDATE ${$ta... " />
+            <marker date="1612164011458" expanded="true" signature="3332:3365" ph="DELETE FROM " />
+            <marker date="1612164011458" expanded="true" signature="3863:3912" ph="UPDATE ${$ta... " />
+            <marker date="1612164011458" expanded="true" signature="4448:4481" ph="SELECT SUM(v... ${$tabla}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/ventas.modelo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2948">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="n#mdlSumaTotalVentas#0;n#ModeloVentas#0;n#!!top" expanded="false" />
+            <marker date="1612142018365" expanded="true" signature="334:391" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="602:638" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="1022:1216" ph="INSERT INTO ${$tabla}... " />
+            <marker date="1612142018365" expanded="true" signature="2218:2415" ph="UPDATE ${$ta... " />
+            <marker date="1612142018365" expanded="true" signature="3421:3454" ph="DELETE FROM " />
+            <marker date="1612142018365" expanded="true" signature="3986:4022" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="4202:4255" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="4875:4955" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="5036:5110" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1612142018365" expanded="true" signature="5459:5490" ph="SELECT SUM(n... ${$tabla}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controladores/ventas.controlador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <marker date="1612194004958" expanded="true" signature="3279:3613" ph="..." />
+            <marker date="1612194004958" expanded="true" signature="3335:3493" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+            <marker date="1612194004958" expanded="true" signature="3512:3532" ph="{...}" />
+            <marker date="1612194004958" expanded="true" signature="3540:3589" ph="{...}" />
+            <marker date="1612194004958" expanded="true" signature="9140:9473" ph="..." />
+            <marker date="1612194004958" expanded="true" signature="9196:9353" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+            <marker date="1612194004958" expanded="true" signature="9372:9392" ph="{...}" />
+            <marker date="1612194004958" expanded="true" signature="9400:9449" ph="{...}" />
+            <marker date="1612194004958" expanded="true" signature="13523:13847" ph="..." />
+            <marker date="1612194004958" expanded="true" signature="13540:13727" ph="{&quot;icon&quot;: &quot;success&quot;...}" />
+            <marker date="1612194004958" expanded="true" signature="13746:13766" ph="{...}" />
+            <marker date="1612194004958" expanded="true" signature="13774:13823" ph="{...}" />
           </folding>
         </state>
       </provider>
